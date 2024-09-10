@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GroceryApp</string>
+    <string name="title">Title</string>
+    <string name="your_description">Your description</string>
+</resources>
